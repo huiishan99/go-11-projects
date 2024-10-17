@@ -1,0 +1,12 @@
+- [ ] Learn Go Programming by Building 11 Projects – Full Course [video](https://www.youtube.com/watch?v=jFfo23yIWac)
+  - [x] Build A Simple Web Server With Golang 
+  - [x] Build A CRUD API With Golang
+  - [x] Golang With MYSQL Book Management System
+  - [x] Simple SlackBot To Calculate Age
+  - [ ] Golang Slackbot for File Uploading
+  - [ ] Email Verifier Tool With Golang
+  - [ ] AWS Lambda With Golang
+  - [ ] CRM with Golang Fiber
+  - [ ] HRMS with Golang Fiber
+  - [ ] Complete serverless stack with Golang
+  - [ ] A.I Bot with wolfram, wit.ai and Golang
