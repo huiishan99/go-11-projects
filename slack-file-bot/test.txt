@@ -1,0 +1,14 @@
+Golang test
+
+Video: https://www.youtube.com/watch?v=jFfo23yIWac
+
+func (*Client) UploadFile is deprecated
+
+By Hui Shan
+
+---
+
+2024-10-18
+
+
+
