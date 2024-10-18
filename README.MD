@@ -4,7 +4,7 @@
   - [x] Golang With MYSQL Book Management System
   - [x] Simple SlackBot To Calculate Age  
     ![slack](/assets/images/slack-age-bot.png)
-  - [ ] Golang Slackbot for File Uploading
+  - [x] Golang Slackbot for File Uploading
   - [ ] Email Verifier Tool With Golang
   - [ ] AWS Lambda With Golang
   - [ ] CRM with Golang Fiber
